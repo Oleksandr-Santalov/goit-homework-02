@@ -13,9 +13,6 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
-.accent-color {
-  color: #2e2f42;
-}
 
 /* ============== HEADER STYLES ============== */
 .logotype {
@@ -28,6 +25,10 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
+.accent-color {
+  color: #2e2f42;
+}
+
 .menu-link {
   color: #2e2f42;
   font-size: 16px;
