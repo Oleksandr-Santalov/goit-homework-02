@@ -54,5 +54,29 @@ body {
 
 /* ============== HEADER STYLES ============== */
 /* ============== HERO STYLES ============== */
-
+.hero {
+  background-color: #2e2f42;
+}
+.main-title {
+  color: #ffffff;
+  text-align: center;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+}
+.order-servis-btn {
+  background-color: #4d5ae5;
+  color: #ffffff;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+}
+.order-servis-btn:hover,
+.order-servis-btn:focus {
+  background-color: #404bbf;
+}
 /* ============== HERO STYLES ============== */
