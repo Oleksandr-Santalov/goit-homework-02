@@ -117,6 +117,9 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
+.team-list-item {
+  background-color: #ffffff;
+}
 .team-list-title {
   color: #2e2f42;
   text-align: center;
